@@ -1,0 +1,6 @@
+version: '1'
+rules:
+- base: main
+  upstream: XiakeMan777:main
+  mergeMethod: merge
+  mergeUnstable: false
